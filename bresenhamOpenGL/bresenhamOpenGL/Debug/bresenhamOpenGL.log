@@ -1,0 +1,4 @@
+﻿  bresenham.cpp
+e:\garis_lingkaran_opengl_c++_vs2015\bresenhamopengl\bresenhamopengl\bresenham.cpp(46): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  bresenhamOpenGL.vcxproj -> E:\Garis_Lingkaran_OpenGL_C++_VS2015\bresenhamOpenGL\Debug\bresenhamOpenGL.exe
+  bresenhamOpenGL.vcxproj -> E:\Garis_Lingkaran_OpenGL_C++_VS2015\bresenhamOpenGL\Debug\bresenhamOpenGL.pdb (Full PDB)
